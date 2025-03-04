@@ -1,10 +1,10 @@
 {
   "viper_update": [
     {
- "version":"7.32.1",
+ "version":"7.34.0",
  "title":"Update Tersedia",
  "description":"Viper Shopee Driver
-Mod Anda Membutuhkan versi terbaru! versi saat ini 7.32.1",
+Mod Anda Membutuhkan versi terbaru! versi saat ini 7.34.0",
 "download":"https://t.me/GarisLurus27"
 }
   ]
